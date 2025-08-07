@@ -1,4 +1,3 @@
-
 # 📘 Beginner Python Books
 
 Welcome to the **Beginner Python Books** section! 🐍
