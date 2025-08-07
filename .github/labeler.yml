@@ -1,0 +1,6 @@
+new-book:
+  - 'beginner/**'
+  - 'intermediate/**'
+  - 'advanced/**'
+bugfix:
+  - '*.md'
