@@ -50,7 +50,7 @@ All books here are either:
 - Openly licensed by the author
 - Freely available for non-commercial educational use
 
-If you're an author and wish to update or remove your book from this list, [contact us](mailto:musbijawo@gmail.com).
+If you're an author and wish to update or remove your book from this list, [contact us](mailto:musbimusbi7@gmail.com).
 
 ---
 
